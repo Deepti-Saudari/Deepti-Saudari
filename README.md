@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-# 👋 Hi, I'm Deepti Saudari
-### Software Engineer • AI Developer
+Software Engineer • AI Developer
 
 Building AI-powered applications, backend systems, and intelligent software solutions.
 
