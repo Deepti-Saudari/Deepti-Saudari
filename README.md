@@ -1,21 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Deepti Saudari
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=950&height=80&lines=Exploring+Artificial+Intelligence;Building+Real-World+AI+Applications;Learning+Backend+Engineering;Creating+Projects+That+Solve+Problems"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:7C3AED&height=260&section=header&text=DEEPTI%20SAUDARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Exploring%20Artificial%20Intelligence%20•%20Building%20Real-World%20AI%20Applications&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Learning+Backend+Engineering;Exploring+LLMs+and+Multi-Agent+Systems;Building+with+Python+and+FastAPI"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/deepti-saudari/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:saudarideepti@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Deepti-Saudari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
