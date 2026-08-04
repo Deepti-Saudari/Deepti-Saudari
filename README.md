@@ -1,26 +1,23 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Banner"/>
+<img src="./banner.png" alt="Deepti Saudari Banner" width="100%" />
 
-<h3>
-Building Projects with
-<span style="color:#FF4D6D;">Python</span> &
-<span style="color:#5B8CFF;">FastAPI</span>
-</h3>
+# 👋 Hi, I'm Deepti Saudari
+
+### Building intelligent software using Artificial Intelligence, Machine Learning, and Backend Engineering.
 
 <p>
-<a href="https://www.linkedin.com/in/deepti-saudari">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/deepti-saudari">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:saudarideepti@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:saudarideepti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Deepti-Saudari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/Deepti-Saudari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </div>
