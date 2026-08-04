@@ -163,7 +163,7 @@ NumPy • Pandas • Scikit-learn
 
 </p>
 
-> 🔗 **Repository:** *(Add repository link)*
+> 🔗 **Repository:** https://github.com/Deepti-Saudari/agentic-ai-startup-cofounder
 
 ---
 
