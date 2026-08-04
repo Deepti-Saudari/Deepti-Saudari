@@ -12,11 +12,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:saudarideepti@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=saudarideepti@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/Deepti-Saudari">
