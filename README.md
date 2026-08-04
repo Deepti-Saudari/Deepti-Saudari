@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Deepti Saudari Banner"/>
+</p>
+
 <div align="center">
 
-# 👋 Hi, I'm Deepti Saudari
+<p align="center">
+  <img src="./banner.png" alt="Banner"/>
+</p>
 
 ### Software Engineer • AI Developer
 
