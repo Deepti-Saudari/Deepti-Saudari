@@ -1,12 +1,14 @@
 <div align="center">
 
-# Deepti Saudari
+# 👋 Hi, I'm Deepti Saudari
 
-### Software Engineer • AI Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Developer;Backend+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications"/>
 
-Building intelligent software using Artificial Intelligence, Machine Learning, and Backend Engineering.
+<br>
 
-<p>
+Building intelligent software using **Artificial Intelligence**, **Machine Learning**, and **Backend Engineering**.
+
+<br>
 
 <a href="https://www.linkedin.com/in/deepti-saudari/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -19,10 +21,6 @@ Building intelligent software using Artificial Intelligence, Machine Learning, a
 <a href="https://github.com/Deepti-Saudari">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
-**Backend Engineering • Artificial Intelligence • Machine Learning**
 
 </div>
 
