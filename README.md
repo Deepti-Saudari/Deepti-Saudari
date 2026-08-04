@@ -3,11 +3,7 @@
 </p>
 
 <div align="center">
-
-<p align="center">
-  <img src="./banner.png" alt="Banner"/>
-</p>
-
+# 👋 Hi, I'm Deepti Saudari
 ### Software Engineer • AI Developer
 
 Building AI-powered applications, backend systems, and intelligent software solutions.
