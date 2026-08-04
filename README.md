@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0:0B1220,35:1D4ED8,70:4F46E5,100:8B5CF6&text=Deepti%20Saudari&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Exploring%20Artificial%20Intelligence%20%E2%80%A2%20Building%20Real-World%20AI%20Applications&descSize=18&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0B1220,50:2563EB,100:7C3AED&text=DEEPTI%20SAUDARI&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Exploring%20Artificial%20Intelligence%20•%20Building%20Real-World%20AI%20Applications&descAlignY=62&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Learning+Backend+Engineering;Exploring+LLMs+%26+Multi-Agent+Systems;Building+Projects+with+Python+and+FastAPI"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Learning+Backend+Engineering;Exploring+LLMs+%26+Multi-Agent+Systems;Building+Projects+with+Python+and+FastAPI"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/deepti-saudari/">
+<a href="https://www.linkedin.com/in/deepti-saudari">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
