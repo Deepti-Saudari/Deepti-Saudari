@@ -1,37 +1,32 @@
 <div align="center">
 
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>
-
-
-<br>
-
-# 👋 Hi, I'm Deepti Saudari
+# 👋 Hi, I'm **Deepti Saudari**
 
 ### Software Engineer • AI Developer
 
-Building intelligent software using Artificial Intelligence, Machine Learning, and Backend Engineering.
+Building AI-powered software using **Python**, **FastAPI**, **Machine Learning**, and **Large Language Models**.
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/deepti-saudari/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:saudarideepti@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Deepti-Saudari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+Developer;Backend+Developer;Building+AI-Powered+Applications;FastAPI+%7C+Python+%7C+LLMs;Always+Learning+New+Technologies"/>
+### 🚀 FastAPI • Python • LLMs • Machine Learning
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:3B82F6,100:CBD5E1"/>
 
 ---
 
