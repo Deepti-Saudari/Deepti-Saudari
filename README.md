@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=RAINBOW&center=true&vCenter=true&width=900&lines=Learning+Backend+Engineering;Building+with+Python+%26+FastAPI;Exploring+LLMs+%26+Multi-Agent+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=FF4D5A,D946EF,8B5CF6,3B82F6,06B6D4&center=true&vCenter=true&width=900&lines=Learning+Backend+Engineering;Building+with+Python+%26+FastAPI;Exploring+LLMs+%26+Multi-Agent+Systems"/>
 
 <br>
 
