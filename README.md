@@ -127,7 +127,7 @@ NumPy • Pandas • Scikit-learn
 
 </p>
 
-> 🔗 **Repository:** *(Add repository link after pushing project)*
+> 🔗 **Repository:** https://github.com/Deepti-Saudari/agentic-ai-startup-cofounder
 
 ---
 
@@ -163,7 +163,7 @@ NumPy • Pandas • Scikit-learn
 
 </p>
 
-> 🔗 **Repository:** https://github.com/Deepti-Saudari/agentic-ai-startup-cofounder
+> 🔗 **Repository:** https://github.com/Deepti-Saudari/AI-Mock-Interview
 
 ---
 
@@ -198,7 +198,7 @@ NumPy • Pandas • Scikit-learn
 
 </p>
 
-> 🔗 **Repository:** *(Add repository link)*
+> 🔗 **Repository:** https://github.com/Deepti-Saudari/FashionRecommendationSystem
 
 ---
 
