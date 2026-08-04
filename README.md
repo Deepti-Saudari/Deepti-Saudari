@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:7C3AED&height=260&section=header&text=DEEPTI%20SAUDARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Exploring%20Artificial%20Intelligence%20•%20Building%20Real-World%20AI%20Applications&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0:0B1220,35:1D4ED8,70:4F46E5,100:8B5CF6&text=Deepti%20Saudari&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Exploring%20Artificial%20Intelligence%20%E2%80%A2%20Building%20Real-World%20AI%20Applications&descSize=18&descAlignY=58&animation=fadeIn"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Learning+Backend+Engineering;Exploring+LLMs+and+Multi-Agent+Systems;Building+with+Python+and+FastAPI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Learning+Backend+Engineering;Exploring+LLMs+%26+Multi-Agent+Systems;Building+Projects+with+Python+and+FastAPI"/>
 
 <br><br>
 
