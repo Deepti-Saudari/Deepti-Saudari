@@ -2,23 +2,24 @@
 
 <img src="./banner.png" alt="Deepti Saudari Banner" width="100%" />
 
-# 👋 Hi, I'm Deepti Saudari
+<br><br>
 
-### Building intelligent software using Artificial Intelligence, Machine Learning, and Backend Engineering.
 
-<p>
-  <a href="https://www.linkedin.com/in/deepti-saudari">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence;Building+Real-World+AI+Applications;Learning+Backend+Engineering"/>
 
-  <a href="mailto:saudarideepti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<br><br>
 
-  <a href="https://github.com/Deepti-Saudari">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/deepti-saudari">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saudarideepti@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepti-Saudari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
