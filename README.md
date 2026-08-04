@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Deepti Saudari Banner"/>
+  <img src="assets/banner-v2.png" width="100%" alt="Deepti Saudari Banner"/>
 </p>
 
 <div align="center">
