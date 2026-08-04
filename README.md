@@ -2,11 +2,11 @@
 
 <img src="./banner.png" alt="Deepti Saudari Banner" width="100%" />
 
-<div style="margin-top:30px;"></div>
+<p>&nbsp;</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=1E293B&center=true&vCenter=true&width=900&lines=Learning+Backend+Engineering;Building+with+Python+%26+FastAPI;Exploring+LLMs+%26+Multi-Agent+Systems"/>
 
-<div style="margin-top:30px;"></div>
+<p>&nbsp;</p>
 
 <a href="https://www.linkedin.com/in/deepti-saudari">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
