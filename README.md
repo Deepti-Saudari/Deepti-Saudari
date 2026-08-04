@@ -2,11 +2,7 @@
 
 # 👋 Hi, I'm Deepti Saudari
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Developer;Backend+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications"/>
-
-<br>
-
-Building intelligent software using **Artificial Intelligence**, **Machine Learning**, and **Backend Engineering**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=950&height=80&lines=Exploring+Artificial+Intelligence;Building+Real-World+AI+Applications;Learning+Backend+Engineering;Creating+Projects+That+Solve+Problems"/>
 
 <br>
 
