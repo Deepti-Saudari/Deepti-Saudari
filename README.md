@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="assets/banner-v2.png" width="100%" alt="Deepti Saudari Banner"/>
-</p>
-
 <div align="center">
-Software Engineer • AI Developer
 
-Building AI-powered applications, backend systems, and intelligent software solutions.
+<img src="assets/banner-v2.png" width="100%" alt="Deepti Saudari Banner"/>
+
+<br>
+
+# 👋 Hi, I'm Deepti Saudari
+
+### Software Engineer • AI Developer
+
+Building intelligent software using Artificial Intelligence, Machine Learning, and Backend Engineering.
 
 <p align="center">
 
@@ -18,12 +21,12 @@ Building AI-powered applications, backend systems, and intelligent software solu
 </a>
 
 <a href="https://github.com/Deepti-Saudari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Developer;Backend+Developer;Building+AI-Powered+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+Developer;Backend+Developer;Building+AI-Powered+Applications;FastAPI+%7C+Python+%7C+LLMs;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -31,178 +34,276 @@ Building AI-powered applications, backend systems, and intelligent software solu
 
 # 💫 About Me
 
-Computer Science graduate passionate about building AI-powered applications, backend systems, and scalable software solutions.
+I'm a Computer Science graduate passionate about building software that combines Artificial Intelligence with practical engineering.
 
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🚀 Building intelligent applications using FastAPI, Python and LLMs
-- 🧠 Exploring Agentic AI, Multi-Agent Systems and RAG
-- 💻 Passionate about Software Engineering & Backend Development
-- 🌱 Always learning new technologies
+My work focuses on developing scalable backend systems, integrating Large Language Models, designing AI-powered applications, and solving real-world problems through software.
+
+I enjoy taking an idea from concept to implementation—whether that's designing REST APIs, building machine learning pipelines, or creating intelligent automation using modern AI technologies.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 🤖 Building AI-powered applications
+- ⚡ Learning advanced Backend Engineering
+- 🧠 Exploring Agentic AI & Multi-Agent Systems
+- 📚 Improving Data Structures & Algorithms
+- ☁️ Expanding Cloud & Software Architecture knowledge
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+</p>
+
+REST APIs • API Integration • System Design
+
+### Artificial Intelligence
+
+- Machine Learning
+- Natural Language Processing (NLP)
+- Prompt Engineering
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- LangChain (Basics)
+- Google Gemini API
+- OpenAI API
+- Groq LLaMA 3.3 70B
+
+### Libraries
+
+NumPy • Pandas • Scikit-learn
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
+<div align="center">
 
-## 🎯 Agentic AI Startup Co-Founder
+## 🚀 Agentic AI Startup Co-Founder Platform
 
-AI-powered startup platform with **13 specialized AI agents** helping entrepreneurs validate ideas, perform market research and generate business strategies.
+*AI-powered platform that acts as a virtual co-founder, helping entrepreneurs transform ideas into validated startups through intelligent multi-agent collaboration.*
 
-**Highlights**
+</div>
 
-- Multi-Agent Architecture
-- Startup Validation
-- Market Research
-- Financial Planning
-- FastAPI Backend
-- Next.js Frontend
+### ✨ Highlights
 
-**Tech**
+- 🤖 Built using **13 specialized AI agents**
+- 🧠 Automated startup idea validation
+- 📊 Market research & competitor analysis
+- 💰 Financial planning & investment scoring
+- ⚡ 15+ REST APIs using FastAPI
+- 🏗 Modular backend architecture
+- 🚀 End-to-end startup lifecycle automation
 
-`Python`
-`FastAPI`
-`Next.js`
-`TypeScript`
-`Groq`
-`REST APIs`
+**Tech Stack**
 
----
+<p>
 
-## 🎤 AI Mock Interview Platform
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-An AI-powered interview preparation platform providing intelligent interview practice and personalized feedback.
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
 
-**Highlights**
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
 
-- AI Generated Questions
-- Speech-to-Text
-- AI Evaluation
-- Analytics Dashboard
-- Interview History
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 
-**Tech**
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
 
-`Python`
-`FastAPI`
-`Gemini API`
-`NLP`
-`Speech Recognition`
+</p>
 
----
-
-## 👗 Fashion Recommendation System
-
-Machine Learning recommendation engine that recommends visually similar fashion products using deep learning.
-
-**Highlights**
-
-- ResNet-50
-- Feature Extraction
-- Similarity Search
-- Recommendation Engine
-- AWS Integration
-
-**Tech**
-
-`Python`
-`Scikit-Learn`
-`NumPy`
-`Pandas`
-`AWS S3`
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-
-### AI / ML
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
-
-![LLM](https://img.shields.io/badge/LLMs-red?style=for-the-badge)
-
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=Deepti-Saudari&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Saudari&layout=compact&theme=github_dark)
-
-![](https://streak-stats.demolab.com?user=Deepti-Saudari&theme=github-dark)
-
----
-
-# 📚 Currently Exploring
-
-- Agentic AI
-- Multi-Agent Systems
-- Backend Engineering
-- Software Architecture
-- Retrieval-Augmented Generation
-- Scalable AI Applications
-
----
-
-# 🏆 Certifications
-
-- Databricks Generative AI Fundamentals
-- Claude with Anthropic API
-- Databricks Fundamentals
-- NPTEL Cloud Computing (Elite)
-- Cisco Python Essentials
-- Smart Interviews Bronze Certification
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-saudarideepti@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/deepti-saudari
-
-🌍 **Portfolio**
-
-Coming Soon
+> 🔗 **Repository:** *(Add repository link after pushing project)*
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🎤 AI Mock Interview Platform
+
+*An intelligent interview preparation platform that generates role-specific interview questions and provides AI-powered feedback for continuous improvement.*
+
+</div>
+
+### ✨ Highlights
+
+- 🎯 AI-generated interview questions
+- 🎤 Speech-to-Text integration
+- 🧠 Gemini-powered evaluation
+- 📈 Performance analytics dashboard
+- 📚 Interview history tracking
+- ⚡ FastAPI backend
+- 🤖 NLP-based response analysis
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+
+</p>
+
+> 🔗 **Repository:** *(Add repository link)*
+
+---
+
+<div align="center">
+
+## 👗 Fashion Recommendation System
+
+*Machine Learning powered recommendation engine capable of finding visually similar fashion products using deep feature extraction.*
+
+</div>
+
+### ✨ Highlights
+
+- 👕 Feature extraction using ResNet-50
+- 🧠 Similarity search
+- 📦 Recommendation engine
+- ☁ AWS S3 integration
+- ⚡ Optimized processing pipeline
+- 📊 Hybrid filtering approach
+
+**Tech Stack**
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/ResNet--50-FF6B6B?style=for-the-badge"/>
+
+</p>
+
+> 🔗 **Repository:** *(Add repository link)*
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepti-Saudari&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Saudari&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Deepti-Saudari&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+# 🏆 Certifications & Achievements
+
+<table>
+<tr>
+<td>
+
+### 📜 Certifications
+
+- ✅ Databricks Generative AI Fundamentals
+- ✅ Claude with Anthropic API
+- ✅ Databricks Fundamentals
+- ✅ NPTEL Cloud Computing (Elite)
+- ✅ Cisco Python Essentials
+- ✅ Smart Interviews Bronze Certification
+
+</td>
+
+<td>
+
+### 🎯 Core Competencies
+
+- Artificial Intelligence
+- Backend Engineering
+- Machine Learning
+- REST API Development
+- Software Design
+- Problem Solving
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+✔ Agentic AI
+✔ Multi-Agent Systems
+✔ Software Architecture
+✔ FastAPI
+✔ Retrieval-Augmented Generation
+✔ Cloud Technologies
+✔ Large Language Models
+```
+
+---
+
+# 📚 Relevant Coursework
+
+<p align="center">
+
+Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Operating Systems • Computer Networks • Cloud Computing • Machine Learning • Natural Language Processing
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:saudarideepti@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepti-saudari/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepti-Saudari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# 💡 Engineering Philosophy
+
+*"Build solutions that are simple, scalable, and impactful."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=120&section=footer"/>
 
 </div>
