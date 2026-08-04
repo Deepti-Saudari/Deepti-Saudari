@@ -225,7 +225,7 @@ Operating Systems • Database Management Systems • Data Structures & Algorith
 
 Building intelligent software, one project at a time.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:2563EB,100:7C3AED"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF4D5A,30:E11D8D,65:7C3AED,100:2563EB"/>
 
 </div>
 
