@@ -1,8 +1,7 @@
 <div align="center">
 
-<p align="center">
   <img src="images/banner.png" alt="Banner" width="85%">
-</p>
+
 
 <br>
 
