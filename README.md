@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0B1220,50:2563EB,100:7C3AED&text=DEEPTI%20SAUDARI&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Exploring%20Artificial%20Intelligence%20•%20Building%20Real-World%20AI%20Applications&descAlignY=62&descSize=18"/>
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 
 <br>
 
