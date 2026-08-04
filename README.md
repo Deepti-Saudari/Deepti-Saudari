@@ -24,7 +24,7 @@
 
 ---
 
-## 🥸 About Me
+## 👤 About Me
 
 I'm a Computer Science graduate passionate about building software that combines **Artificial Intelligence** with practical engineering.
 
@@ -186,8 +186,8 @@ Operating Systems • Database Management Systems • Data Structures & Algorith
 
 <p>
 
-<a href="mailto:saudarideepti@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=saudarideepti@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepti-saudari/">
