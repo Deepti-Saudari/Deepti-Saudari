@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner-v2.png" width="100%" alt="Deepti Saudari Banner"/>
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="85%">
+</p>
 
 <br>
 
