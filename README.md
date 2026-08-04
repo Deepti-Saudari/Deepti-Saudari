@@ -2,12 +2,12 @@
 
 <img src="./banner.png" alt="Deepti Saudari Banner" width="100%" />
 
-<br>
+<br><br>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence;Building+Real-World+AI+Applications;Learning+Backend+Engineering"/>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/deepti-saudari">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
