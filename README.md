@@ -1,278 +1,222 @@
 <div align="center">
 
-# 👋 Hi, I'm **Deepti Saudari**
+# Deepti Saudari
 
 ### Software Engineer • AI Developer
 
-Building AI-powered software using **Python**, **FastAPI**, **Machine Learning**, and **Large Language Models**.
+Building intelligent software using Artificial Intelligence, Machine Learning, and Backend Engineering.
 
 <p>
 
 <a href="https://www.linkedin.com/in/deepti-saudari/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:saudarideepti@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Deepti-Saudari">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-### 🚀 FastAPI • Python • LLMs • Machine Learning
+**Backend Engineering • Artificial Intelligence • Machine Learning**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:3B82F6,100:CBD5E1"/>
-
 ---
 
-# 💫 About Me
+## 🥸 About Me
 
-I'm a Computer Science graduate passionate about building software that combines Artificial Intelligence with practical engineering.
+I'm a Computer Science graduate passionate about building software that combines **Artificial Intelligence** with practical engineering.
 
-My work focuses on developing scalable backend systems, integrating Large Language Models, designing AI-powered applications, and solving real-world problems through software.
+My primary interests include **Backend Engineering**, **Machine Learning**, **Large Language Models (LLMs)**, and **Intelligent Automation**. I enjoy designing scalable systems, integrating AI into real-world applications, and solving problems through clean, maintainable software.
 
-I enjoy taking an idea from concept to implementation—whether that's designing REST APIs, building machine learning pipelines, or creating intelligent automation using modern AI technologies.
+I'm continuously learning modern AI technologies while strengthening my knowledge of software architecture, system design, and full-stack development.
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- 🤖 Building AI-powered applications
-- ⚡ Learning advanced Backend Engineering
+- 🤖 Building AI-powered applications using LLMs
+- ⚙️ Learning Backend Engineering & System Design
 - 🧠 Exploring Agentic AI & Multi-Agent Systems
 - 📚 Improving Data Structures & Algorithms
 - ☁️ Expanding Cloud & Software Architecture knowledge
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+
 </p>
 
-### Backend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
+### ⚙️ Backend Development
 
-REST APIs • API Integration • System Design
+- FastAPI
+- REST API Development
+- API Integration
+- System Design
 
-### Artificial Intelligence
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
 
 - Machine Learning
 - Natural Language Processing (NLP)
 - Prompt Engineering
+- Large Language Models (LLMs)
 - Multi-Agent Systems
 - Retrieval-Augmented Generation (RAG)
-- LangChain (Basics)
 - Google Gemini API
-- OpenAI API
-- Groq LLaMA 3.3 70B
+- Groq LLaMA
 
-### Libraries
+---
 
-NumPy • Pandas • Scikit-learn
+### 📚 Libraries & Frameworks
 
-### Cloud & Tools
+NumPy • Pandas • Scikit-learn • TensorFlow • Streamlit
+
+---
+
+### ☁️ Cloud & Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-<div align="center">
-
-## 🚀 Agentic AI Startup Co-Founder Platform
-
-*AI-powered platform that acts as a virtual co-founder, helping entrepreneurs transform ideas into validated startups through intelligent multi-agent collaboration.*
-
-</div>
-
-### ✨ Highlights
-
-- 🤖 Built using **13 specialized AI agents**
-- 🧠 Automated startup idea validation
-- 📊 Market research & competitor analysis
-- 💰 Financial planning & investment scoring
-- ⚡ 15+ REST APIs using FastAPI
-- 🏗 Modular backend architecture
-- 🚀 End-to-end startup lifecycle automation
-
-**Tech Stack**
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
 
 </p>
 
-> 🔗 **Repository:** https://github.com/Deepti-Saudari/agentic-ai-startup-cofounder
+---
+## 🚀 Featured Projects
+
+### 🚀 AI Startup Co-Founder
+
+AI-powered multi-agent platform that transforms startup ideas into validated business strategies through intelligent AI collaboration.
+
+**Highlights**
+
+- 🤖 13 specialized AI agents
+- 📊 Automated market research & competitor analysis
+- 💰 Financial planning and investment scoring
+- 📈 Business Model Canvas & Lean Canvas generation
+- 🎤 Investor-ready pitch generation
+
+**Tech**
+
+`Python` `FastAPI` `Next.js` `TypeScript` `Groq LLM`
+
+🔗 Repository: https://github.com/Deepti-Saudari/agentic-ai-startup-cofounder
 
 ---
 
-<div align="center">
+### 🎤 AI Mock Interview
 
-## 🎤 AI Mock Interview Platform
+AI-powered interview preparation platform that generates personalized interview questions and provides intelligent feedback using Generative AI.
 
-*An intelligent interview preparation platform that generates role-specific interview questions and provides AI-powered feedback for continuous improvement.*
+**Highlights**
 
-</div>
+- 🤖 AI-generated interview questions
+- 🎤 Speech-to-text integration
+- 🧠 Gemini AI evaluation
+- 📊 Performance analytics dashboard
+- 📝 Interview history
 
-### ✨ Highlights
+**Tech**
 
-- 🎯 AI-generated interview questions
-- 🎤 Speech-to-Text integration
-- 🧠 Gemini-powered evaluation
-- 📈 Performance analytics dashboard
-- 📚 Interview history tracking
-- ⚡ FastAPI backend
-- 🤖 NLP-based response analysis
+`Python` `FastAPI` `Gemini AI` `Next.js` `Clerk`
 
-**Tech Stack**
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
-
-</p>
-
-> 🔗 **Repository:** https://github.com/Deepti-Saudari/AI-Mock-Interview
+🔗 Repository: https://github.com/Deepti-Saudari/AI-Mock-Interview
 
 ---
+
+### 👗 Fashion Recommendation System
+
+Computer vision application that recommends visually similar fashion products using deep feature extraction.
+
+**Highlights**
+
+- 🧠 ResNet-50 feature extraction
+- 🔍 Image similarity search
+- 👗 Content-based recommendation
+- ⚡ Fast image retrieval
+- 🌐 Streamlit application
+
+**Tech**
+
+`Python` `TensorFlow` `ResNet-50` `Streamlit`
+
+🔗 Repository: https://github.com/Deepti-Saudari/FashionRecommendationSystem
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## 👗 Fashion Recommendation System
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepti-Saudari&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-*Machine Learning powered recommendation engine capable of finding visually similar fashion products using deep feature extraction.*
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepti-Saudari&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-### ✨ Highlights
+<div align="center">
 
-- 👕 Feature extraction using ResNet-50
-- 🧠 Similarity search
-- 📦 Recommendation engine
-- ☁ AWS S3 integration
-- ⚡ Optimized processing pipeline
-- 📊 Hybrid filtering approach
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepti-Saudari&layout=compact&theme=tokyonight&hide_border=true"/>
 
-**Tech Stack**
+</div>
+
+---
+## 🏆 Certifications
+
+- 🎓 AI Agents and Agentic AI with Python & Generative AI
+- ☁️ AWS Cloud Fundamentals
+- 🤖 Machine Learning & Artificial Intelligence
+- 💻 Python Programming
+- 🌐 Full Stack Development
+
+---
+
+## 🌱 Currently Exploring
+
+- Multi-Agent AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Backend System Design
+- Cloud Architecture
+- Advanced FastAPI
+- LLM Application Development
+
+---
+
+## 📚 Relevant Coursework
+
+Operating Systems • Database Management Systems • Data Structures & Algorithms • Computer Networks • Object-Oriented Programming • Machine Learning • Artificial Intelligence • Cloud Computing
+
+---
+
+## 🤝 Let's Connect
 
 <p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/ResNet--50-FF6B6B?style=for-the-badge"/>
-
-</p>
-
-> 🔗 **Repository:** https://github.com/Deepti-Saudari/FashionRecommendationSystem
-
----
-
-# 🏆 Certifications & Achievements
-
-<table>
-<tr>
-<td>
-
-### 📜 Certifications
-
-- ✅ Databricks Generative AI Fundamentals
-- ✅ Claude with Anthropic API
-- ✅ Databricks Fundamentals
-- ✅ NPTEL Cloud Computing (Elite)
-- ✅ Cisco Python Essentials
-- ✅ Smart Interviews Bronze Certification
-
-</td>
-
-<td>
-
-### 🎯 Core Competencies
-
-- Artificial Intelligence
-- Backend Engineering
-- Machine Learning
-- REST API Development
-- Software Design
-- Problem Solving
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌱 Currently Exploring
-
-```text
-✔ Agentic AI
-✔ Multi-Agent Systems
-✔ Software Architecture
-✔ FastAPI
-✔ Retrieval-Augmented Generation
-✔ Cloud Technologies
-✔ Large Language Models
-```
-
----
-
-# 📚 Relevant Coursework
-
-<p align="center">
-
-Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Operating Systems • Computer Networks • Cloud Computing • Machine Learning • Natural Language Processing
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
 
 <a href="mailto:saudarideepti@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepti-saudari/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Deepti-Saudari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -281,10 +225,16 @@ Data Structures & Algorithms • Object-Oriented Programming • Database Manage
 
 <div align="center">
 
-# 💡 Engineering Philosophy
+### ⭐ Thanks for visiting my profile!
 
-*"Build solutions that are simple, scalable, and impactful."*
+Building intelligent software, one project at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:2563EB,100:7C3AED"/>
 
 </div>
+
+
+
+
+
+
