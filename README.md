@@ -5,7 +5,7 @@
 <br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence;Building+Real-World+AI+Applications;Learning+Backend+Engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=FF4D5A&center=true&vCenter=true&width=900&lines=Learning+Backend+Engineering;Building+with+Python+%26+FastAPI;Exploring+LLMs+%26+Multi-Agent+Systems"/>
 
 <br>
 
